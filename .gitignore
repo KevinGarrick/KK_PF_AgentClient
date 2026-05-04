@@ -1,0 +1,15 @@
+/tforward-agent
+/agent.json
+/tmp/
+/.cache/
+.env
+.env.*
+*.key
+*.pem
+id_rsa
+id_ed25519
+known_hosts
+config.local.json
+production.json
+*.nft
+*.log
